@@ -2,3 +2,4 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+China TV，https://live.tv.darwinchow.com/sub/02Rq8zNR18CCYBoXVKFY4rqhMKRW4i
